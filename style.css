@@ -1,0 +1,7 @@
+.container {
+  background-color: rgb(235,242,90);  /*set default/normal background color of div to yellow; click #0*/
+}
+
+button {
+  display: block;
+}
